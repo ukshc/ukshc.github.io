@@ -59,6 +59,12 @@ button.navbar-toggler {
     color: #444;
     text-rendering: optimizeLegibility;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 @media screen and (min-width:750px) {
     .main-title {
         font-size: 2.7rem
