@@ -3,6 +3,13 @@ title: Accommodation
 layout: page
 date: 2017-09-01 16:10:23 +0000
 ---
-
-
-aldsfjasdf
+<p>Local Accommodation with Singers</p>
+<p>We have some limited local accommodation available with singers. If you would like to apply to stay with a local singer, please fill in this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqM40wOHw-FOqt5Hq6BGqAgXdGTKgPQFCc9RumP4Fslz6uPA/viewform?usp=sf_link">Google form</a> before <strong>Friday, 4th August</strong>.</p>
+<p>There are many hotels, hostels and B&amp;Bs in Sheffield and Stannington. Here are a few options. We also recommend looking at <a href="https://www.airbnb.co.uk/">Airbnb</a> for affordable local accommodation.</p>
+<p><a href="http://www.rshostels.co.uk/sheffield-hostel/">Russell Scott Youth Hostel</a></p>
+<p><a href="https://www.travelodge.co.uk/hotels/317/Sheffield-Central-hotel">Travelodge Sheffield City Centre</a></p>
+<p><a href="https://www.sheffieldmetropolitan.com/">Sheffield Metropolitan Hotel</a></p>
+<p><a href="https://www.accorhotels.com/gb/hotel-1348-novotel-sheffield-centre/index.shtml">Novotel Sheffield City Centre</a></p>
+<p><a href="https://www.accorhotels.com/gb/hotel-2891-ibis-sheffield-city/index.shtml">Ibis Sheffield City Centre</a></p>
+<p><a href="http://www.rutlandhotel-sheffield.com/">Rutland Hotel Sheffield</a></p>
+<p><a href="http://www.barnfieldhouse.com/">Barnfield House B&amp;B (close to convention venue)</a></p>
