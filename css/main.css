@@ -1,1 +1,68 @@
+h1 {
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 50px;
+    color: #000
+}
 
+body h2,
+body ul {
+    font-size: 15px
+}
+
+body p1,
+body p2 {
+    font-size: 12px;
+}
+
+body h2 {
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+}
+
+body p1,
+body ul {
+    font-family: 'Tenor Sans', sans-serif;
+}
+
+body p2 {
+    font-family: Montserrat, sans-serif;
+}
+
+@media screen and (min-width:750px) {
+    .main-title h1 {
+        font-size: 3em!important
+    }
+    .main-title h2 {
+        font-size: 1.5em!important
+    }
+    .main-navigation li {
+        font-size: .8em!important
+    }
+    #main {
+        width: 750px
+    }
+}
+
+@media screen and (max-width:750px) {
+    .main-title h1 {
+        font-size: 2em!important
+    }
+    .main-title h2 {
+        font-size: 1.2em!important
+    }
+    .main-navigation li {
+        font-size: .8em!important
+    }
+}
+
+@media screen and (max-width:499px) {
+    .main-title h1 {
+        font-size: 1.8em!important
+    }
+    .main-title h2 {
+        font-size: 1em!important
+    }
+    .main-navigation li {
+        font-size: .8em!important
+    }
+}
