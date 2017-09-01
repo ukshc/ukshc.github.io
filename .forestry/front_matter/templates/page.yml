@@ -2,5 +2,9 @@
 hide_body: false
 fields:
 - type: text
-  name: test
-  label: test
+  name: layout
+  label: layout
+  config:
+    required: true
+  description: write 'page' without quotes for normal pages
+  default: page
