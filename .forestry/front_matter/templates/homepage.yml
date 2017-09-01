@@ -13,3 +13,9 @@ fields:
   name: homepage_image
   label: homepage image
   description: the image that goes on the right of the homepage
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: true
