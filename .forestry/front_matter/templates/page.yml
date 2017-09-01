@@ -2,4 +2,7 @@
 pages:
 - schedule.md
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: test
+  label: test
