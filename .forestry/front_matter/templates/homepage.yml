@@ -8,6 +8,11 @@ fields:
   label: homepage image
   description: the image that goes on the right of the homepage
 - type: text
+  name: homepage_image_description
+  label: Homepage Image Description
+  description: Describe the image so that a blind person would know what it looks
+    like
+- type: text
   name: layout
   label: layout
   config:
