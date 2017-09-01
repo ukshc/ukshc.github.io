@@ -1,0 +1,13 @@
+---
+hide_body: false
+fields:
+- type: textarea
+  label: homepage text
+  name: homepage_text
+  config:
+    wysiwyg: true
+  description: the text that goes on the left of the homepage
+- type: file
+  name: homepage_image
+  label: homepage image
+  description: the image that goes on the right of the homepage
