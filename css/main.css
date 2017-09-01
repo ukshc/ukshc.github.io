@@ -32,6 +32,10 @@ a:hover {
     margin-bottom: 1rem;
     color: #515151;
 }
+.main-title a {
+    color: #515151;
+    text-decoration: none;
+}
 
 .location-title {
     font-weight: normal;
