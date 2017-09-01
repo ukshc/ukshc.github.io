@@ -46,7 +46,10 @@ a.nav-link {
     border-bottom: 1px solid #ededed;
 }
 button.navbar-toggler {
-    cursor: pointer
+    cursor: pointer;
+    border: 5px solid #ededed;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0.5rem;
 }
 @media screen and (min-width:750px) {
     .main-title {
