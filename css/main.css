@@ -29,25 +29,22 @@ body p2 {
 }
 
 @media screen and (min-width:750px) {
-    .main-title h1 {
+    .main-title {
         font-size: 3em!important
     }
-    .main-title h2 {
+    .location-title {
         font-size: 1.5em!important
     }
     .main-navigation li {
         font-size: .8em!important
     }
-    #main {
-        width: 750px
-    }
 }
 
 @media screen and (max-width:750px) {
-    .main-title h1 {
+    .main-title {
         font-size: 2em!important
     }
-    .main-title h2 {
+    .location-title {
         font-size: 1.2em!important
     }
     .main-navigation li {
@@ -56,10 +53,10 @@ body p2 {
 }
 
 @media screen and (max-width:499px) {
-    .main-title h1 {
+    .main-title {
         font-size: 1.8em!important
     }
-    .main-title h2 {
+    .location-title {
         font-size: 1em!important
     }
     .main-navigation li {
