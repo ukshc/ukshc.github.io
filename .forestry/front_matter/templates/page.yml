@@ -10,8 +10,3 @@ fields:
     required: true
   description: write 'page' without quotes for normal pages
   default: page
-- type: text
-  name: alternative_heading
-  label: Alternative Heading
-  description: If you want a different heading on the page to the title of the page
-    then put that here
