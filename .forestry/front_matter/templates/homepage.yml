@@ -3,12 +3,6 @@ pages:
 - index.html
 hide_body: false
 fields:
-- type: textarea
-  name: homepage_text
-  label: homepage text
-  description: the text that goes on the left of the homepage
-  config:
-    wysiwyg: true
 - type: file
   name: homepage_image
   label: homepage image
