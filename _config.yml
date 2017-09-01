@@ -1,0 +1,4 @@
+name: UK Sacred Harp Convention
+markdown: kramdown
+gems:
+  - jekyll-feed
