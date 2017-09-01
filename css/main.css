@@ -41,27 +41,27 @@ a:hover {
 
 @media screen and (min-width:750px) {
     .main-title {
-        font-size: 3em!important
+        font-size: 2.7rem
     }
     .location-title {
-        font-size: 1.5em!important
+        font-size: 1.4rem
     }
 }
 
 @media screen and (max-width:750px) {
     .main-title {
-        font-size: 2em!important
+        font-size: 2rem
     }
     .location-title {
-        font-size: 1.2em!important
+        font-size: 1.2rem
     }
 }
 
 @media screen and (max-width:499px) {
     .main-title {
-        font-size: 1.8em!important
+        font-size: 1.8rem
     }
     .location-title {
-        font-size: 1em!important
+        font-size: 1rem
     }
 }
