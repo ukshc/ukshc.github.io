@@ -18,5 +18,5 @@ fields:
   label: layout
   config:
     required: true
-  hidden: true
+  hidden: ''
   default: homepage
