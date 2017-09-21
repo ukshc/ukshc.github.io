@@ -1,5 +1,6 @@
 ---
 pages:
+- resources.md
 - schedule.html
 hide_body: false
 fields:
