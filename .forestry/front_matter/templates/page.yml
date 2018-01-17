@@ -11,3 +11,4 @@ fields:
     required: true
   description: write 'page' without quotes for normal pages
   default: page
+  hidden: true
