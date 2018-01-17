@@ -2,7 +2,7 @@
 pages:
 - the-venue.md
 - schedule.html
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: layout
