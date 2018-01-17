@@ -1,5 +1,6 @@
 ---
 pages:
+- venue.md
 - the-venue.md
 - schedule.html
 hide_body: false
