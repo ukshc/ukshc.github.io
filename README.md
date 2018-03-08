@@ -8,7 +8,7 @@ If you want to edit most content then use [Forestry](https://app.forestry.io/log
 
 If you want to re-do the design/layout/colours etc then you'll have to do that here – probably in [/css/main.css](https://github.com/ukshc/ukshc.github.io/blob/master/css/main.css)
 
-The site uses [Bootstrap v4.0.0-beta](https://getbootstrap.com/) as a CSS framework to help with layout and design
+The site uses [Bootstrap v4](https://getbootstrap.com/) as a CSS framework to help with layout and design
 
 ## Some editing instructions
 Edit https://github.com/ukshc/ukshc.github.io/blob/master/_includes/header.html to edit the title of the site (name and year of the convention)
